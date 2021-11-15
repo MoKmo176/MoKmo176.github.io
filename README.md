@@ -1,2 +1,2 @@
-# MoKmo176.github.io-plotly
+# MoKmo176.github.io
 JavaScript
